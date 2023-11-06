@@ -5,7 +5,7 @@
 | Practical 01 | Take a review and write test cases for any known application. |  |
 | Practical 02 | Implement Web drivers on Chrome & Firefox Browsers. |  |
 | Practical 03 | Demonstrate handling multiple frames in selenium. |  |
-| Practical 04 | Implement Browser command and navigation Commands. |  |
+| Practical 04 | Implement Browser command and navigation Commands. | ✅ |
 | Practical 05 | Implement the find element command. |  |
 | Practical 06 |  |  |
 | Practical 07 |  |  |
