@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>SwitchToFrame</name>
+	<name>BrowserCommands</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1702964112299</id>
+			<id>1699502268000</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
